@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/theebak/code/theebak31/TaxiFareModel/mlruns/1/d5aad971701545adbabf3efd12a44a66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d5aad971701545adbabf3efd12a44a66
+run_uuid: d5aad971701545adbabf3efd12a44a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654008970756
+status: 1
+tags: []
+user_id: unknown
